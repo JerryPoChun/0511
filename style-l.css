@@ -14,11 +14,12 @@ body {
 
 header {
     margin-bottom: 10px;
+     background-color:#FF5809;
 }
 
 #headerpost {
     margin-bottom: 30px;
-    background-color:#FF5809;
+   background: linear-gradient(#ff1e97 0%, #FF5809 100%);
 }
 
 #content {
